@@ -3,7 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://frank-sinnigen.de](https://frank-sinnigen.de)
 
-- 💬 Ask me about anything [here] **info@frank-sinnigen.de**
+- 💬 Ask me about anything [here](mailto:info@frank-sinnigen.de)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
