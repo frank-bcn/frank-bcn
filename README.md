@@ -9,3 +9,4 @@
 - 👨‍💻 All of my projects are available at [https://frank-sinnigen.de](https://frank-sinnigen.de)
 
 - 💬 Ask me about anything [here](mailto:info@frank-sinnigen.de)
+
