@@ -13,7 +13,7 @@
 ### Portfolio
 <a href="https://frank-sinnigen.de/">
     <img src="https://github.com/frank-bcn/portfolio/blob/main/src/assets/%20images/etc_images/screenshotPortfolio.png" alt="Portfolio Screenshot" width="300"/> 
-</a> &nbsp;
+</a> &nbsp;<br>
 > Besuche mein Portfolio, um mehr über meine Projekte zu erfahren!
 
 # 💻 Tech Stack 
