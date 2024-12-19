@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Frank Sinnigen</h1>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Frank+Sinnigen!+I+love+coding)](https://git.io/typing-svg)
+
 </div>
 
 <h3 align="center">A passionate Fullstack developer from Germany</h3>
