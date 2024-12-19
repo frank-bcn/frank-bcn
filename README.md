@@ -16,15 +16,13 @@
 </a> &nbsp;
 > Besuche mein Portfolio, um mehr über meine Projekte zu erfahren!
 
-# 💻 Tech Stack - Fullstack Ethical Hacking & Pentesting
+# 💻 Tech Stack 
 ## Development:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -35,19 +33,11 @@
 ![Nmap](https://img.shields.io/badge/nmap-%23009e2f.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-%23000000.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-%23e22d2d.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Hydra](https://img.shields.io/badge/hydra-%23C2C2C2.svg?style=for-the-badge&logo=hydra&logoColor=white)
-![Nikto](https://img.shields.io/badge/nikto-%231c3e5b.svg?style=for-the-badge&logo=nikto&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/aircrack--ng-%23ff3e00.svg?style=for-the-badge&logo=aircrack-ng&logoColor=white)
-![Netcat](https://img.shields.io/badge/netcat-%23000000.svg?style=for-the-badge&logo=netcat&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/john%20the%20ripper-%23c74c24.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23F16A00.svg?style=for-the-badge&logo=owasp&logoColor=white)
 
 ## Cloud & Networking:
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%23007FFF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-%230A65B2.svg?style=for-the-badge&logo=openvpn&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-%23E50000.svg?style=for-the-badge&logo=tor&logoColor=white)
 
 ## Databases & Web Servers:
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
