@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frank Sinnigen</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&ines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&ines=Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 
 
 
