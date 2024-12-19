@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="text-align: center;">
 
   <h1>Hi 👋, I'm Frank Sinnigen</h1>
   
