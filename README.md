@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frank Sinnigen</h1>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Fullstack developer from Germany</h3>
 
 - 👨‍💻 All of my projects are available at [https://frank-sinnigen.de](https://frank-sinnigen.de)
