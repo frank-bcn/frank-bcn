@@ -8,3 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://frank-sinnigen.de](https://frank-sinnigen.de)
 - 💬 Ask me about anything [here](mailto:info@frank-sinnigen.de)
+#  :memo: Projects
+
+### Portfolio - My Portfolio
+<a href="https://frank-sinnigen.de/">
+    <img src="https://github.com/dein-benutzername/dein-repository/raw/main/images/screenshotPortfolio.png" alt="Portfolio Screenshot" width="300"/> 
+</a> &nbsp;
