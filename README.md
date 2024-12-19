@@ -12,6 +12,6 @@
 
 ### Portfolio - My Portfolio
 <a href="https://frank-sinnigen.de/">
-    <img src="https://github.com/mein-benutzername/mein-repository/raw/main/src/assets/images/etc_images/screenshotPortfolio.png" alt="Portfolio Screenshot" width="300"/> 
+    <img src="https://github.com/frank-bcn/portfolio/blob/main/src/assets/%20images/etc_images/screenshotPortfolio.png" alt="Portfolio Screenshot" width="300"/> 
 </a> &nbsp;
 
