@@ -12,11 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Create output directory
+        run: mkdir -p dist
+
       - uses: Platane/snk@v3.2.0
         with:
           github_user_name: frank-bcn
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
