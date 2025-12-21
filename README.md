@@ -11,7 +11,7 @@
 
   <h3>Portfolio</h3>
   <a href="https://frank-sinnigen.de/">
-    <img src="https://github.com/frank-bcn/portfolio/blob/main/src/assets/%20images/etc_images/screenshotPortfolio.png" alt="Portfolio Screenshot" width="300" />
+    <img src="https://github.com/frank-bcn/portfolio/blob/main/src/assets/%20images/etc_images/portfolio.png" alt="Portfolio Screenshot" width="300" />
   </a>
   <br>
   <p>Visit my portfolio to learn more about my projects!</p>
