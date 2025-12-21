@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F99000&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
  
-  <h3>Fullstack Developer | Ethical Hacker & Penetration Tester</h3>
+  <h3>Ethical Hacker & Penetration Tester</h3>
   
   <div>👨‍💻 All of my projects are available at <a href="https://frank-sinnigen.de">https://frank-sinnigen.de</a></div>
   <div>💬 Ask me about anything <a href="mailto:info@frank-sinnigen.de">here</a></div>
