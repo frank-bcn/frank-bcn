@@ -2,9 +2,9 @@
 
 # Hi, I'm Frank Sinnigen
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F99000&center=true&vCenter=true&width=700&lines=Cloud+Detection+Engineer;Logs+→+Telemetry+→+Detection;Building+Cloud+Security+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F99000&center=true&vCenter=true&width=700&lines=Cloud+Detection+Engineer;Logs+→+Telemetry+→+Detection;Learning+by+Building)](https://git.io/typing-svg)
 
-### Building secure cloud environments through monitoring, detection and automation.
+### Learning Cloud Security through hands-on projects in Monitoring, Detection Engineering and Security Automation.
 
 🌐 **Portfolio:** <a href="https://frank-sinnigen.de">frank-sinnigen.de</a> • 📫 **Contact:** <a href="mailto:info@frank-sinnigen.de">info@frank-sinnigen.de</a>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Focus
+## 🎯 Focus
 
 - ☁️ Cloud Security
 - 🔍 Detection Engineering
@@ -26,7 +26,7 @@
 
 ---
 
-## Current Projects
+## 🚀 Current Projects
 
 - 🔐 EC2 + CrowdSec + Nginx Monitoring
 - ☁️ CloudWatch Detection & Alerting
@@ -37,5 +37,28 @@
 <div align="center">
 
 ### 💡 *Learning by building. Documenting every step.*
+
+</div>
+
+---
+
+## 🐍 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/frank-bcn/frank-bcn/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/frank-bcn/frank-bcn/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/frank-bcn/frank-bcn/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
